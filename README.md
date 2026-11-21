@@ -83,7 +83,7 @@ Do wczytywania sesji służy przycisk **„Wczytaj”**.
 
 ### 🔧 Informacje techniczne
 
-**Wersja:** 1.1.3 FINAL  
+**Wersja:** 1.1.3  
 **Architektura:** Win32 x86 (32-bit)  
 **Język programowania:** C  
 **Interfejs:** Windows API / RichEdit  
