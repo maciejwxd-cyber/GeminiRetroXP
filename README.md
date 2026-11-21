@@ -1,5 +1,5 @@
 # GeminiRetroXP
-# 🤖 Gemini RetroXP v1.1.3 FINAL — sztuczna inteligencja Google na Windows XP!
+# 🤖 Gemini RetroXP v1.1.3 — sztuczna inteligencja Google na Windows XP!
 
 **Natywny klient Gemini AI dla Windows XP, napisany w czystym C i Win32 API!**
 
